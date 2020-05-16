@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+*.pyd
+venv
+.idea
+*.bak
+*.db
+*.bak
+*.log
+*.pbf
+*.st
+*.o5m
+
